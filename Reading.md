@@ -1,6 +1,6 @@
-# Reflection on Live Codinf from ch.1
+# Reflection on Live Coding from ch.1
 
-## Things that surprised or inpired me:
+## Things that surprised or inspired me:
 
 First is that greek word "programma" is actually means "write publicly". As David Ogborn said: "To define something is to take it to stake a claim to it's future, to make a claim about what it should become". So we, people, defined the word "programma" as "write publicly" and then coding is a secreet weapon. Not good! 
 
@@ -9,6 +9,6 @@ Second thing which inspired me a lot as a person who went throgh jazz improvisat
 ## Things that didn't surprised me much
 
 
-First is that live coders are the fighters for transparency - we tslked about this in class, though in class it was a mind opening information for me. 
+First is that live coders are the fighters for transparency - we talked about this in class, though in class it was a mind opening information for me. 
 
-And th second one is that in the end of 20th century, computers came to many art practicies using specific programming languages such as Max/MSP, Supercollider, Csound and Pure Data.  
+And the second one is that in the end of 20th century, computers came to many art practicies using specific programming languages such as Max/MSP, Supercollider, Csound and Pure Data.  

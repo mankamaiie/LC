@@ -1,4 +1,4 @@
-/* by Mariia K */
+
 
 setcpm(85/4)
 

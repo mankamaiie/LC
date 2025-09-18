@@ -1,5 +1,3 @@
-
-
 setcpm(85/4)
 
 // first idea (commented out cause i don't really like it)
